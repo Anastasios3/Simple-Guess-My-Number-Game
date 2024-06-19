@@ -46,9 +46,3 @@ Check out the live version of the game here: [Simple Guess My Number Game](https
 ## Contact
 
 For any inquiries or job opportunities, feel free to reach out.
-
----
-
-Feel free to modify this README file as needed. Let me know if you need any further adjustments or additions!
-
-
